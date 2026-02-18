@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.task {
+    @apply text-2xl text-white bg-orange-800 p-4  mt-4 rounded-2xl w-full 
+}
